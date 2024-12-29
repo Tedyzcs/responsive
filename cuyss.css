@@ -1,0 +1,80 @@
+
+body {
+    background-image: url('Lana del rey1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: "Times New Roman";
+
+#p1{color: red;}
+#p2{color: purple;}
+#p3{color: blue;}
+#p4{color: green;}
+#p5{color: orange;}
+#p6{color: yellow;}
+#p7{color: brown;}
+#p8{color: gray;}
+#p9{color: aquamarine;}
+#p10{color: pink;}
+
+#p1{border: solid ;
+padding: 15px;
+background-image: url('bor1.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+
+#p2{border: solid;
+padding: 15px;
+background-image: url('bor2.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+#p3{border: solid;
+padding: 15px;
+background-image: url('bor3.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+#p4{border: solid;
+padding: 15px;
+background-image: url('bor4.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+#p5{border: solid;
+padding: 15px;
+background-image: url('bor5.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+#p6{border: solid;
+padding: 15px;
+background-image: url('bor6.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+#p7{border: solid;
+padding: 15px;
+background-image: url('bor7.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+#p8{border: solid;
+padding: 15px;
+background-image: url('bor8.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+#p9{border: solid;
+padding: 15px;
+background-image: url('bor9.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+#p10{border: solid;
+padding: 15px;
+background-image: url('bor10.jpg');
+border-radius: 10px;
+margin-bottom: 25px;
+}
+}
