@@ -131,7 +131,7 @@ color: black;
 }
 
 
-@media (min-width: 769px) {
+@media (min-width: 1920px) {
   .sidebar {
       display: none; 
   }
